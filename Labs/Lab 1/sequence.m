@@ -9,10 +9,6 @@ classdef sequence
 			% SEQUENCE   Sequence object
 			%            S = SEQUENCE(DATA, OFFSET) creates sequence S
 			%            using DATA and OFFSET
-			%
-			%            Samson Huang 17 Feb 2023
-			%            Jared Richardson 17 Feb 2023
-			%            Nadim Damlaj 17 Feb 2023
 			s.data = dat;
 			s.offset = off;
 		end
