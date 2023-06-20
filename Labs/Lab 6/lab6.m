@@ -1,5 +1,3 @@
-% Group 5: Samson Huang, Brandon Foley, Ricardo Campos
-
 function lab6
 % lab6.m
 % You will provide the print-out for the following
