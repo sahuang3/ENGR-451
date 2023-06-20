@@ -1,4 +1,3 @@
-%% Group 3: Samson Huang, Hinal Halani, Justin Vinh Hong
 %% lab4.m
 clear
 delete(allchild(0));
