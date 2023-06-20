@@ -1,4 +1,3 @@
-%% Group 5: Samson Huang, Brandon Foley, Nezar Suhail Saba
 %% Lab 7 - Resampling
 
 %% Testing resampling of a sin at (5/2)fs
