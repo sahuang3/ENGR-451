@@ -1,4 +1,3 @@
-%% Group 4: Samson Huang, Ervin Jerold Balancio Pedersen, Epifanio Benjamin Oliquino Salvador
 % LAB5 Checks functionality of FIR window design
 %      Place this file in same directory as your
 %      rectfilt, hammingfilt and kaiserfilt functions.
